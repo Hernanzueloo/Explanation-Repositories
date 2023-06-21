@@ -1,4 +1,4 @@
-# Explanation-Repositories
+# Repositories Explanation
 
 My public repositories are categorized as follows, they are arranged chronologically (the higher the number the newer the project):
 
